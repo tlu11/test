@@ -1,4 +1,4 @@
 astropy
 sep
 numpy
-matplotlib.pyplot
+matplotlib
